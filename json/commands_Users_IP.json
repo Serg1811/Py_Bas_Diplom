@@ -1,0 +1,30 @@
+[
+  {
+    "command": "1",
+    "description": "Введите IP адресса через\" \""
+  },
+  {
+    "command": "2",
+    "description": "Загрузить IP из файла"
+  },
+  {
+    "command": "",
+    "description": "Загрузить ичные файлы"
+  },
+  {
+    "command": "b",
+    "description": "завершить текущую операцию"
+  },
+  {
+    "command": "s",
+    "description": "Перейти в стартовое меню"
+  },
+  {
+    "command": "q",
+    "description": "Завершить работу"
+  },
+  {
+    "command": "s",
+    "description": "Ввернуться к стартовому меню"
+  }
+]

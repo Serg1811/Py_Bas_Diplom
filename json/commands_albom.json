@@ -1,0 +1,26 @@
+[
+  {
+    "command": "1",
+    "description": "из профиля\""
+  },
+  {
+    "command": "2",
+    "description": "со стены"
+  },
+  {
+    "command": "3",
+    "description": "фотографии с пользователем"
+  },
+  {
+    "command": "b",
+    "description": "завершить текущую операцию"
+  },
+  {
+    "command": "q",
+    "description": "Завершить работу"
+  },
+  {
+    "command": "s",
+    "description": "Ввернуться к стартовому меню"
+  }
+]
