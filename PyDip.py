@@ -2,11 +2,7 @@ import datetime
 import json
 import os
 from pprint import pprint
-
 import requests
-
-
-# import time
 
 
 class Disk:
@@ -231,9 +227,8 @@ def write_json(file_info, path: str):
         res = json.dump(file_info, f, ensure_ascii=False, indent=2)
         return res
 
+
 class UserInterface:
-    # def init__(self):
-    #     inputDict = {'q': {'command': self.exit_, 'param': '\nДо новых встреч'}, 'b': {'command': self.back_, 'param': None}, 's': {'command': self.StartMenu, 'param': None}}
 
     def input_(self, param=None):
         print(param)
